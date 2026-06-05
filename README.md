@@ -1,38 +1,27 @@
-# My AI Learning Journey 🚀
+<h1 align="center">EAS 510 — Git Practice</h1>
 
-Welcome to my repository!  
-This space documents my journey in **Artificial Intelligence and Machine Learning** — from the very first steps of coding to building real-world projects.
+<p align="center">
+  <em>Git workflow practice repository for EAS 510 at the University at Buffalo.</em>
+</p>
 
-## 🌱 How It Started
-My curiosity for AI began back in high school, when I taught myself the basics of programming through YouTube. Inspired by technology (and yes, Iron Man played a role 😅), I pursued a **B.Tech in Computer Science and Engineering with a specialization in AI & ML** at Presidency University, Bangalore.  
-
-## 📚 Academic Milestones
-- Completed my undergraduate degree in 2024 with projects in **computer vision, GANs, and NLP**.  
-- Published research in AI and multi-agent systems.  
-- Currently pursuing my **Master’s in Artificial Intelligence (specializing in Machine Learning & Data Science)**, exploring advanced topics like LLMs, generative AI, and reinforcement learning.  
-
-## 💻 Projects That Shaped My Learning
-- **AI-DxMH:** AI-powered mental health diagnosis support tool  
-- **Car Counter (OpenCV):** Real-time vehicle detection & counting  
-- **GANs for Image Realism:** Enhancing low-quality images  
-- **Simple CNN:** Learning the foundations of deep learning  
-
-## 🛠️ Skills Acquired
-- **Programming:** Python, C, Java, R  
-- **AI/ML Frameworks:** TensorFlow, PyTorch, Scikit-learn  
-- **Specializations:** NLP, Computer Vision, LLMs, Generative AI  
-- **Cloud:** AWS Academy Cloud Foundations  
-
-## 🎯 What’s Next
-- Building expertise in **data-intensive computing and scalable AI systems**  
-- Developing **AI-first solutions in healthcare**  
-- Contributing more to **open-source projects**  
-
-## 🔗 Connect With Me
-- GitHub: [Gustav-Proxi](https://github.com/Gustav-Proxi)  
-- LinkedIn: [Vaishak G Kumar](https://www.linkedin.com/in/vaishakgkumar)  
-- Website: [vaishakgkumar.dev](https://vaishakgkumar.dev)  
+<p align="center">
+  <img src="https://img.shields.io/badge/University%20at%20Buffalo-005BBB?style=flat-square&logo=academia&logoColor=white" alt="UB">
+  <img src="https://img.shields.io/badge/EAS%20510-Git%20Practice-7C3AED?style=flat-square" alt="EAS 510">
+</p>
 
 ---
 
-✨ This repository represents not just code, but my continuous learning and exploration in the field of AI.
+## Contents
+
+| File | Description |
+|------|-------------|
+| `README.md` | This file |
+| `about.md` | Personal bio — interests and background |
+
+## Purpose
+
+This repository was created as part of the EAS 510 course at the University at Buffalo to practice fundamental Git operations: cloning, committing, branching, and pushing.
+
+---
+
+**Author:** [Vaishak G Kumar](https://github.com/Gustav-Proxi)
